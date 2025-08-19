@@ -4,3 +4,4 @@ This is a repository for object tracking filters.
 - Kalman Filter
 - Externded Kalman Filter
 - Unscented Kalman Filter
+- Inverse Covarient (Informative) Kalman FIlter
