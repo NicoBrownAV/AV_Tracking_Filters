@@ -1,9 +1,9 @@
-# AV_Tracking_Filters
+# Tracking_Filters
 This is a repository for object tracking filters.
 
-- Kalman Filter
+- Kalman Filter (2D Constant Velocity)
 
-<img width="639" height="479" alt="kf" src="https://github.com/user-attachments/assets/a0da33e9-929e-44fc-b4e7-51fa9b484c69" />
+<img width="539" height="379" alt="kf" src="https://github.com/user-attachments/assets/a0da33e9-929e-44fc-b4e7-51fa9b484c69" />
 
 
 - Externded Kalman Filter
